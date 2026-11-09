@@ -1,0 +1,16 @@
+---
+title: "Add capablities to a chat"
+tags: ["Side project"]
+---
+
+# Add capablities to a chat
+Different generative AI providers offer additional capabilities beyond the default chat interface. Claude will be used here, but the result could be generalised to other providers. 
+
+## Add a MCP server
+Open a new conversation on the claude.ai website. In the chat promt area, click the plus sign. Choose the "Connectors" tab, the "Add Connectors" and then "Browse Connectors". Among the options given, add the "Microsoft Learn" MCP server (scroll down or search for it.) Claude will now access Microsoft Learn directly for questions and this will improve the quality of answers given. 
+
+## Schedule a task
+In the left hand side menu, click the "Scheduled" tab. Click the "Set up manually" button and add a task that checks for something, like a daily overview of new jobs posted on a specific keyword search. 
+
+## Additional
+Imagine other use cases. Browse the other options, like adding a skill, adding a folder or switch to Claude Code mode (located immediately right of the Claude logo.)
